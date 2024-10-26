@@ -17,7 +17,7 @@
 	}
 </script>
 
-<div class="container flex justify-center">
+<div class="flex justify-center">
 	<div class="container space-y-5">
 		<h1 class="text-5xl font-mono">$state</h1>
 		<div class="border p-4">
